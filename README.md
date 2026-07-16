@@ -38,10 +38,10 @@ This repository contains my accepted Java solutions to LeetCode problems. I crea
 
 | Difficulty | Solved |
 |------------|---------|
-| Easy | 0 |
+| Easy | 0 | Day 2 : Valid Palindrome , Valid Anagram , Longest Common Prefix
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | **26** |
+| **Total** | **28** |
 
 ---
 
